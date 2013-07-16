@@ -10,7 +10,7 @@
 </summary>
 	<version>1.0</version>
 	<releasedate>some date</releasedate>
-	<payload></payload>
+	<payload>https://raw.github.com/punit9462/testing-GHNS/master/temp1.plots</payload>
 </stuff>
 <stuff category="application/x-khipu">
 	<name>Plots Dictionary 2</name>
@@ -21,7 +21,7 @@
 </summary>
 	<version>1.0</version>
 	<releasedate>some date</releasedate>
-	<payload></payload>
+	<payload>https://raw.github.com/punit9462/testing-GHNS/master/temp2.plots</payload>
 </stuff>
 <stuff category="application/x-khipu">
 	<name>Plots Dictionary 3</name>
@@ -32,17 +32,6 @@
 </summary>
 	<version>1.0</version>
 	<releasedate>some date</releasedate>
-	<payload></payload>
-</stuff>
-<stuff category="application/x-khipu">
-	<name>Plots Dictionary 4</name>
-	<author>Punit Mehta</author>
-	<email></email>
-	<license>Public Domain</license>
-	<summary>temp
-</summary>
-	<version>1.0</version>
-	<releasedate>some date</releasedate>
-	<payload></payload>
+	<payload>https://raw.github.com/punit9462/testing-GHNS/master/temp3.plots</payload>
 </stuff>
 </knewstuff>
