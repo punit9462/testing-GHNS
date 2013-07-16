@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE knewstuff SYSTEM "knewstuff.dtd">
+<knewstuff>
+<stuff category="application/x-khipu">
+  <name>Plots Dictionary 1</name>
+	<author>Punit Mehta</author>
+	<email></email>
+	<license>Public Domain</license>
+	<summary>temp
+</summary>
+	<version>1.0</version>
+	<releasedate>some date</releasedate>
+	<payload></payload>
+</stuff>
+<stuff category="application/x-khipu">
+	<name>Plots Dictionary 2</name>
+	<author>Punit Mehta</author>
+	<email></email>
+	<license>Public Domain</license>
+	<summary>temp
+</summary>
+	<version>1.0</version>
+	<releasedate>some date</releasedate>
+	<payload></payload>
+</stuff>
+<stuff category="application/x-khipu">
+	<name>Plots Dictionary 3</name>
+	<author>Punit Mehta</author>
+	<email></email>
+	<license>Public Domain</license>
+	<summary>temp
+</summary>
+	<version>1.0</version>
+	<releasedate>some date</releasedate>
+	<payload></payload>
+</stuff>
+<stuff category="application/x-khipu">
+	<name>Plots Dictionary 4</name>
+	<author>Punit Mehta</author>
+	<email></email>
+	<license>Public Domain</license>
+	<summary>temp
+</summary>
+	<version>1.0</version>
+	<releasedate>some date</releasedate>
+	<payload></payload>
+</stuff>
+</knewstuff>
